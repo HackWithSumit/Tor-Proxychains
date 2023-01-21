@@ -24,3 +24,10 @@ Step 1: 1st install tor with below command:
     
 ![Tor](https://user-images.githubusercontent.com/120317751/213859515-ef8c9107-b946-45fb-a75d-620ce06c14d1.gif)
 
+Step 2: Proxychains install with below command
+
+    sudo apt install proxychains   
+
+
+![Proxychains](https://user-images.githubusercontent.com/120317751/213860469-a9916cd1-a6ae-4881-8328-0d8909049726.gif)
+
