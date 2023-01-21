@@ -16,3 +16,9 @@ SOCKS is an Internet protocol that exchanges network packets between a client an
 <br>
 
 <b>Installation & Setup Guide:</b>
+<br>
+  
+Step 1: 1st install tor with below command:
+  
+    sudo apt install tor
+  
