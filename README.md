@@ -21,4 +21,6 @@ SOCKS is an Internet protocol that exchanges network packets between a client an
 Step 1: 1st install tor with below command:
   
     sudo apt install tor
-  
+    
+![Tor](https://user-images.githubusercontent.com/120317751/213859515-ef8c9107-b946-45fb-a75d-620ce06c14d1.gif)
+
