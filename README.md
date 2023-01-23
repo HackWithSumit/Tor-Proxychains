@@ -68,9 +68,21 @@ Step 6: Lets go now fixed this issue
 Step 7: Now configure Proxychains.conf file
 
      sudo nano /etc/proxychains.conf
-     
-     
-
+  
+  
+![Tor](https://user-images.githubusercontent.com/120317751/213960159-e0e265a5-670c-41bd-bdb6-750601bd9551.gif)
+  
+  
+Remove & Replace comment from chain
+  
+     #Dynamic Chain -----> Dynamic Chain
+  
+     Strict Chain -------> #Strict Chain
+  
+     ##Proxy DNS requests - no leak for DNS data ---> Proxy DNS requests - no leak for DNS data
+  
+  
+  
 
 
 
