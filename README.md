@@ -65,6 +65,12 @@ Step 6: Lets go now fixed this issue
 
 ![Screenshot from 2023-01-23 08-33-32](https://user-images.githubusercontent.com/120317751/213959258-46b5350e-b4e7-4a7a-9526-0e3b053e554d.png)
 
+Step 7: Now configure Proxychains.conf file
+
+     sudo nano /etc/proxychains.conf
+     
+     
+
 
 
 
