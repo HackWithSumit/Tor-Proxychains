@@ -61,6 +61,8 @@ Step 5 : Now check tor service status
 Step 6: Lets go now fixed this issue
 
     sudo systemctl enable tor.service
+  
+    sudo systemctl enable tor
     
 
 ![Screenshot from 2023-01-23 08-33-32](https://user-images.githubusercontent.com/120317751/213959258-46b5350e-b4e7-4a7a-9526-0e3b053e554d.png)
@@ -79,10 +81,18 @@ Remove & Replace comment from chain
   
      Strict Chain -------> #Strict Chain
   
+     #Random Chain -------> Random Chain 
+  
      ##Proxy DNS requests - no leak for DNS data ---> Proxy DNS requests - no leak for DNS data
   
+Step 8: Also add Mention IP & PORT at the end of proxychains.conf file
+  
+      socks5  127.0.0.1 9050
   
   
+  
+![Screenshot from 2023-01-23 08-55-48](https://user-images.githubusercontent.com/120317751/213961008-c6814422-bdfa-4662-a0df-9d6fd2bd7fa3.png)
+
 
 
 
