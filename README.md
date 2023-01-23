@@ -94,6 +94,28 @@ Step 8: Also add Mention IP & PORT at the end of proxychains.conf file
 ![Screenshot from 2023-01-23 08-55-48](https://user-images.githubusercontent.com/120317751/213961008-c6814422-bdfa-4662-a0df-9d6fd2bd7fa3.png)
 
 
+Step 8: Now reboot your system
+
+       reboot
+   
+   
+Step 9: Check Tor Proxychains with below command
+
+       proxychains firefox whatismyipaddress.com
+   
+   
+   
+![Screencast from 2023-01-23 09-16-01](https://user-images.githubusercontent.com/120317751/213963120-9d7e6406-fcaf-4de7-a30e-6c380f704d4b.gif)
+   
+   
+   
+   
+   
+   
+
+    
+
+
 
 
 
