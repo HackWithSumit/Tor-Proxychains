@@ -106,7 +106,9 @@ Step 9: Check Tor Proxychains with below command
    
    
 ![Screencast from 2023-01-23 09-16-01](https://user-images.githubusercontent.com/120317751/213963120-9d7e6406-fcaf-4de7-a30e-6c380f704d4b.gif)
-   
+
+
+<b> POC : </B> https://youtu.be/Mwss2iY3nOQ   
    
    
    
