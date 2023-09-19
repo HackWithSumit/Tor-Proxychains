@@ -1,4 +1,12 @@
 # Tor-Proxychains
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/HackWithSumit/count.svg" />
+</p>
+
+
 <b>1. Introduction:</b>
 <br>
 Proxychains is a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5, or HTTP(S) proxy.
